@@ -133,7 +133,7 @@ rasterio
 #### You can download and run the notebook directly on your local PC or Colab and customize it based on your goal.
 
 ## Run GUI
-#### You can download the python file `app.py` and use this command  `streamlit run app.py` to run the GUI
+#### You can download the python file `streamlit_gui_shadow.py` and use this command  `streamlit run streamlit_gui_shadow.py` to run the GUI
 
 ## Limitations:
   - Requires accurate classification of shadows & buildings.
