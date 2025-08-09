@@ -143,8 +143,7 @@ rasterio
 ## Future Improvements
   - Automatic extraction of sun angles from metadata.
   - Orthorectification for terrain correction.
-  - Multi-date building height change analysis
-  - 
+  - Multi-date building height change analysis.
   
   
 
