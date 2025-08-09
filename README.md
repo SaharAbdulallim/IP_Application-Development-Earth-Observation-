@@ -11,7 +11,6 @@ This tool performs the following:
 4. **Visualize** results as:
    - Interactive **map**
    - Color-coded **height plot**
-   - Histogram of **shadow length vs estimated height**
    - Downloadable **GeoJSON** and **table**
 
 ## Input Requirements
@@ -38,14 +37,13 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-3. Use the GUI to upload your file and metadata, then press **"Estimate Heights"**.
+3. Use the GUI to upload your Geojson file that results from OBIA classification, and then the program will calculate the buildings' length based on the sun azimuth and elevation angles.
 
 ## Output
 
 - Map with colored building heights
 - Downloadable `estimated_heights.geojson`
 - Histogram and height table
-- Exportable PNG plot
 
 ##  Internals
 
