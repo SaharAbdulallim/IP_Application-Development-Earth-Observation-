@@ -1,1 +1,1 @@
-I used a high-resolution panchromatic image and attached the images along with the metadata file to extract the sun's azimuth and elevation angles from it.
+I used a high-resolution panchromatic image from images folder named (po_97258_pan_0010000.tif) and attached the images along with the metadata file to extract the sun's azimuth and elevation angles from it.
