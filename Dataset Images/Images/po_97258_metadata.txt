@@ -1,0 +1,199 @@
+==============================================================
+Company Information
+     Address
+           Space Imaging
+	   12076 Grant Street
+           Thornton, Colorado 80241
+           U.S.A.
+     Contact Information
+	   On the Web: http://www.spaceimaging.com
+	   Customer Service Phone (U.S.A.): 1.800.232.9037
+	   Customer Service Phone (World Wide): 301.552.0537
+	   Customer Service Fax (World Wide): 301.552.3762
+	   Customer Service Email: info@spaceimaging.com
+	   Customer Service Center hours of operation:
+Monday - Friday, 7:00am - 11:00pm Eastern Standard Time
+==============================================================
+
+Product Order Metadata
+
+Creation Date: 08/20/02
+Product Work Order Number: Uninitialized
+Product Order Number: 97258
+Customer Project Name: Reference Stereo Map-Projected: 8bit PAN
+Product Order Area (Geographic Coordinates)
+   Number of Coordinates: 4
+   Coordinate: 1
+      Latitude: 32.72900752 degrees
+      Longitude: -117.16068738 degrees
+   Coordinate: 2
+      Latitude: 32.72903306 degrees
+      Longitude: -117.13934282 degrees
+   Coordinate: 3
+      Latitude: 32.71099155 degrees
+      Longitude: -117.13931477 degrees
+   Coordinate: 4
+      Latitude: 32.71096603 degrees
+      Longitude: -117.16065503 degrees
+Product Order Area (Map Coordinates in Map Units)
+   Coordinate: 1
+      Map X (Easting): 484943.53 meters
+      Map Y (Northing): 3619256.76 meters
+   Coordinate: 2
+      Map X (Easting): 484943.53 meters
+      Map Y (Northing): 3621256.76 meters
+   Coordinate: 3
+      Map X (Easting): 486943.53 meters
+      Map Y (Northing): 3621256.76 meters
+   Coordinate: 4
+      Map X (Easting): 486943.53 meters
+      Map Y (Northing): 3619256.76 meters
+Sensor Type: Satellite
+Processing Level: Standard Geometrically Corrected
+Image Type: PAN
+Interpolation Method: Cubic Convolution
+Multispectral Algorithm: None
+Stereo: Mono
+Mosaic: No
+Map Projection: Universal Transverse Mercator
+   UTM Specific Parameters
+      Hemisphere: N
+      Zone Number: 11
+Datum: WGS84
+Product Order Pixel Size: 1.00 meters
+Product Order Map Units:  meters
+MTFC Applied: Yes
+DRA Applied: Yes
+Media: CD
+File Format: GeoTIFF
+   TIFF Tiled: No
+   Bits per Pixel per Band: 8 bits per pixel
+
+==============================================================
+
+Source Image Metadata
+
+Number of Source Images: 2
+
+Source Image ID: 2000020718025380000010116784
+Product Image ID: 000
+Sensor: IKONOS-2
+Acquired Nominal GSD
+   Cross Scan: 1.01 meters
+   Along Scan: 0.94 meters
+Scan Azimuth: 179.96 degrees
+Scan Direction: Reverse
+Panchromatic TDI Mode: 13
+Nominal Collection Azimuth: 61.6960 degrees
+Nominal Collection Elevation: 62.14864 degrees
+Sun Angle Azimuth: 144.3768 degrees
+Sun Angle Elevation: 34.14237 degrees
+Acquisition Date/Time: 2000-02-07 18:02 GMT
+
+--------------------------------------------------------------
+Source Image ID: 2000020718034550000010116785
+Product Image ID: 001
+Sensor: IKONOS-2
+Acquired Nominal GSD
+   Cross Scan: 0.95 meters
+   Along Scan: 0.94 meters
+Scan Azimuth: 179.96 degrees
+Scan Direction: Reverse
+Panchromatic TDI Mode: 13
+Nominal Collection Azimuth: 132.6543 degrees
+Nominal Collection Elevation: 64.66525 degrees
+Sun Angle Azimuth: 144.5938 degrees
+Sun Angle Elevation: 34.24812 degrees
+Acquisition Date/Time: 2000-02-07 18:03 GMT
+
+==============================================================
+
+Product Space Metadata
+
+Number of Image Components: 2
+   X Components: 1
+   Y Components: 1
+Product MBR Geographic Coordinates
+   Number of Coordinates: 4
+   Coordinate: 1
+      Latitude: 32.72900752 degrees
+      Longitude: -117.16068738 degrees
+   Coordinate: 2
+      Latitude: 32.72903310 degrees
+      Longitude: -117.13931080 degrees
+   Coordinate: 3
+      Latitude: 32.71096452 degrees
+      Longitude: -117.13928271 degrees
+   Coordinate: 4
+      Latitude: 32.71093896 degrees
+      Longitude: -117.16065498 degrees
+Product Map Coordinates (in Map Units)
+   UL Map X (Easting): 484943.53 meters
+   UL Map Y (Northing): 3621256.76 meters
+Pixel Size X: 1.00 meters
+Pixel Size Y: 1.00 meters
+Product Order Map Units:  meters
+Columns: 2004 pixels
+Rows: 2004 pixels
+Reference Height: -2.90 meters
+
+==============================================================
+
+Product Component Metadata
+
+Number of Components: 2
+
+Component ID: 0000000
+Product Image ID: 000
+Component File Name: po_97258_pan_0000000.tif 
+Component Geographic Corner Coordinates
+   Number of Coordinates: 4
+   Coordinate: 1
+      Latitude: 32.72900752 degrees
+      Longitude: -117.16068738 degrees
+   Coordinate: 2
+      Latitude: 32.72903306 degrees
+      Longitude: -117.13934282 degrees
+   Coordinate: 3
+      Latitude: 32.71099155 degrees
+      Longitude: -117.13931476 degrees
+   Coordinate: 4
+      Latitude: 32.71096603 degrees
+      Longitude: -117.16065503 degrees
+Component Map Coordinates (in Map Units)
+   UL Map X (Easting): 484943.53 meters
+   UL Map Y (Northing): 3621256.76 meters
+Pixel Size X: 1.00 meters
+Pixel Size Y: 1.00 meters
+Product Order Map Units:  meters
+Columns: 2001 pixels
+Rows: 2001 pixels
+
+--------------------------------------------------------------
+Component ID: 0010000
+Product Image ID: 001
+Component File Name: po_97258_pan_0010000.tif 
+Component Geographic Corner Coordinates
+   Number of Coordinates: 4
+   Coordinate: 1
+      Latitude: 32.72900752 degrees
+      Longitude: -117.16068738 degrees
+   Coordinate: 2
+      Latitude: 32.72903306 degrees
+      Longitude: -117.13934282 degrees
+   Coordinate: 3
+      Latitude: 32.71099155 degrees
+      Longitude: -117.13931476 degrees
+   Coordinate: 4
+      Latitude: 32.71096603 degrees
+      Longitude: -117.16065503 degrees
+Component Map Coordinates (in Map Units)
+   UL Map X (Easting): 484943.53 meters
+   UL Map Y (Northing): 3621256.76 meters
+Pixel Size X: 1.00 meters
+Pixel Size Y: 1.00 meters
+Product Order Map Units:  meters
+Columns: 2001 pixels
+Rows: 2001 pixels
+
+==============================================================
