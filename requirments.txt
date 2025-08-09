@@ -1,0 +1,12 @@
+geopandas
+shapely
+pyproj
+numpy
+pandas
+matplotlib
+scikit-learn
+nickyspatial
+streamlit
+streamlit-folium
+folium
+rasterio
