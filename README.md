@@ -139,7 +139,6 @@ rasterio
 ## Limitations:
   - Requires accurate classification of shadows & buildings.
   - Dependent on correct solar geometry.
-  - Terrain slopes can distort measurements.
 
 ## Future Improvements
   - Automatic extraction of sun angles from metadata.
