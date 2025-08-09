@@ -97,6 +97,7 @@ The GUI provides:
 5. **Download** results for GIS.
 
 *Example GUI screenshot:*  
+
 ![GUI Screenshot](https://github.com/user-attachments/assets/9291fa95-15f0-4283-b010-2d44bcdd6dc0)
 ![GUI image 2](https://github.com/user-attachments/assets/273360e6-87e7-4e92-b28e-3792c689326e)
 
