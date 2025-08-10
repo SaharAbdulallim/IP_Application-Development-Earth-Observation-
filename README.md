@@ -82,6 +82,8 @@ The orange color represents the estimated building height based on the length of
 
 ### GeoJSON/Shapefile  
 - `classified_RF.geojson` and `estimated_heights` files.
+  
+![geojson file on QGIS](https://github.com/user-attachments/assets/15dd6d2f-17d4-40f1-9479-f24af9ab15a4)
 
 ---
 
