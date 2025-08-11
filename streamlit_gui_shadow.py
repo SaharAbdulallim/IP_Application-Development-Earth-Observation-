@@ -61,7 +61,7 @@ if uploaded_geojson:
     result = estimate_heights(buildings_utm, shadows_utm, sun_azimuth, sun_elevation)
     result_wgs = result.to_crs("EPSG:4326")
 
-    st.success("✅ Height estimation complete")
+    st.success(" Height estimation complete")
     st.write("### Estimated Heights Table")
     st.dataframe(result_wgs[["segment_id", "shadow_length_m", "estimated_height_m"]])
 
