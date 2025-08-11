@@ -34,7 +34,7 @@ pip install -r requirements.txt
 2. Run the app:
 
 ```bash
-streamlit run app.py
+streamlit run streamlit_gui_shadow.py
 ```
 
 3. Use the GUI to upload your Geojson file that results from OBIA classification, and then the program will calculate the buildings' length based on the sun azimuth and elevation angles.
