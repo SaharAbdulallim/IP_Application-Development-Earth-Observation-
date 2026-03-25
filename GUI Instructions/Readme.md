@@ -67,3 +67,6 @@ streamlit run streamlit_gui_shadow.py
 
 Developed for easy validation of OBIA-based shadow height estimation with a friendly interface.
 
+
+##### Disclaimer: I used AI  tools in developing the GUI and debugging but all the workflow and ideas and other ananlysis are mainly from me.
+
