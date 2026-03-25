@@ -118,7 +118,7 @@ cd building-height-estimation
 pip install -r requirements.txt
 ```
 
-## 📄 requirements.txt
+## requirements.txt
 
 ```txt
 geopandas
